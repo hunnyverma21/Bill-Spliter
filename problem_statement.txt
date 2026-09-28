@@ -1,0 +1,18 @@
+BILL SPLITTER - PROBLEM STATEMENT
+
+Create a Python program that calculates how much each person should pay when a bill is shared among multiple people.
+
+Requirements:
+1. Ask for the total bill amount.
+2. Ask for the number of people.
+3. Ask for the tip percentage.
+4. Calculate the tip amount.
+5. Calculate the final bill.
+6. Divide the final bill equally among all people.
+7. Display the complete bill summary.
+8. Handle invalid input.
+9. Do not accept negative bill or tip values.
+10. Do not accept zero or negative people.
+
+Goal:
+Practice Python variables, functions, user input, arithmetic operators, conditions, and exception handling.
